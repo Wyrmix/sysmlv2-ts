@@ -1,0 +1,1 @@
+Had to change the API spec slightly, models for `@type` are renamed to `atType` to play nice with typescript descriptors
