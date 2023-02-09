@@ -1,0 +1,35 @@
+{
+  "name": "sysmlv2-ts",
+  "version": "1.0.0",
+  "description": "SysML v2 client side implementation of the OpenAPI spec in TypeScript up to date with the latest version of SysML v2",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wyrmix/sysmlv2-ts.git"
+  },
+  "keywords": [
+    "SysML",
+    "v2",
+    "Systems",
+    "Models",
+    "OMG",
+    "typescript",
+    "UML"
+  ],
+  "author": "Alex Melton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wyrmix/sysmlv2-ts/issues"
+  },
+  "homepage": "https://github.com/Wyrmix/sysmlv2-ts#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
